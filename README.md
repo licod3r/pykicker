@@ -1,3 +1,1 @@
-# pykicker
-
-funny python written football manager for kids
+[![Run on Repl.it](https://repl.it/badge/github/licod3r/pykicker)](https://repl.it/github/licod3r/pykicker)
